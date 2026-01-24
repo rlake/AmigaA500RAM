@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AmigaA500RAM")(type "KiCad")(uri "${KIPRJMOD}/AmigaA500RAM.kicad_sym")(options "")(descr ""))
+)
